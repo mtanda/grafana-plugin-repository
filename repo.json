@@ -1961,6 +1961,7 @@
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
+<<<<<<< HEAD
     },
     {
       "id": "fzakaria-simple-annotations-datasource",
@@ -2036,6 +2037,18 @@
           "version": "1.0.1",
           "commit": "e5b5b54f61624da80f1fbeb24d31ff06e7402f57",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "mtanda-google-stackdriver-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-google-stackdriver-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c134e257ee02b2594607f39f989f910d446c0963",
+          "url": "https://github.com/mtanda/grafana-google-stackdriver-datasource"
         }
       ]
     }
